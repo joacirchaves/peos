@@ -2,6 +2,20 @@
 
 Todas as mudanças relevantes do PEOS devem ser registradas neste arquivo.
 
+## 2026-07-08 — Sprint 4 — Exemplos e Casos de Uso
+
+### Adicionado
+
+- Caso completo de refinamento: recuperação de senha.
+- Exemplos de histórias Jira refinadas.
+- Checklist de revisão de refinamento.
+- Biblioteca de padrões de requisitos.
+
+### Alterado
+
+- Template de História Jira ajustado para critérios de aceite em português BR usando Dado / Quando / Então.
+- README atualizado com exemplos e novos documentos operacionais.
+
 ## 2026-07-08 — Sprint 3 — Portal e Operação
 
 ### Adicionado

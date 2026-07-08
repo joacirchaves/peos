@@ -2,6 +2,17 @@
 
 Todas as mudanças relevantes do PEOS devem ser registradas neste arquivo.
 
+## 2026-07-08 — Sincronização GitHub ↔ Notion
+
+### Adicionado
+
+- Guia de sincronização GitHub ↔ Notion em `notion/sincronizacao-notion.md`.
+
+### Alterado
+
+- README atualizado com seção dedicada ao Notion.
+- Portal principal do Notion reorganizado para refletir a documentação da Sprint 4.
+
 ## 2026-07-08 — Sprint 4 — Exemplos e Casos de Uso
 
 ### Adicionado

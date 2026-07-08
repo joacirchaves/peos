@@ -34,12 +34,19 @@ A documentação está organizada para funcionar em duas camadas:
 - [Padrão de Histórias para Jira](docs/04-padrao-historias-jira.md)
 - [Governança da Documentação](docs/05-governanca-documentacao.md)
 - [Roadmap](docs/06-roadmap.md)
+- [Checklist de Revisão de Refinamento](docs/07-checklist-revisao-refinamento.md)
+- [Biblioteca de Padrões de Requisitos](docs/08-biblioteca-padroes-requisitos.md)
 
 ## Templates
 
 - [Entrada de Demanda](templates/template-entrada-demanda.md)
 - [Discovery](templates/template-discovery.md)
 - [História Jira](templates/template-historia-jira.md)
+
+## Exemplos
+
+- [Caso Completo — Recuperação de Senha](examples/caso-completo-recuperacao-senha.md)
+- [Exemplos de Histórias Jira](examples/exemplos-historias-jira.md)
 
 ## Prompts e agentes
 

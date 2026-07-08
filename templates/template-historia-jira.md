@@ -16,16 +16,18 @@ Como [tipo de usuário], quero [ação/capacidade], para [benefício/resultado].
 
 ### Critérios de aceite
 
+Use o formato **Dado / Quando / Então**, em português BR.
+
 ```gherkin
-Given [contexto inicial]
-When [ação executada]
-Then [resultado esperado]
+Dado que [contexto inicial]
+Quando [ação executada]
+Então [resultado esperado]
 ```
 
 ```gherkin
-Given [contexto alternativo]
-When [ação executada]
-Then [resultado esperado]
+Dado que [contexto alternativo]
+Quando [ação executada]
+Então [resultado esperado]
 ```
 
 ### Fora de escopo

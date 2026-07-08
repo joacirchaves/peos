@@ -53,6 +53,10 @@ A documentação está organizada para funcionar em duas camadas:
 - [Prompt-Mestre — Product Architect & Agile Master](prompts/Prompt-Mestre-Product-Architect.md)
 - [Catálogo de Agentes](agents/catalogo-agentes.md)
 
+## Notion
+
+- [Guia de Sincronização GitHub ↔ Notion](notion/sincronizacao-notion.md)
+
 ## Histórico
 
 - [Changelog](CHANGELOG.md)

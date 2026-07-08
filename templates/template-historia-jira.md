@@ -6,7 +6,13 @@
 
 Explique por que esta história existe, qual problema resolve e qual resultado esperado.
 
-### User Story
+Inclua, quando aplicável:
+
+- Repositórios Git analisados para entendimento da solução existente.
+- Dados externos consultados ou necessários, como Confluence, documentação técnica, contratos de API ou bases de conhecimento.
+- As Is da solução determinada, descrevendo como o processo ou sistema funciona hoje.
+
+### Objetivo
 
 Como [tipo de usuário], quero [ação/capacidade], para [benefício/resultado].
 
@@ -38,9 +44,25 @@ Então [resultado esperado]
 
 - 
 
-### Observações técnicas
+### Análise Técnica
 
-- 
+#### Repositórios impactados
+
+- [owner/repositorio]: [motivo do impacto]
+
+#### Entregáveis técnicos esperados
+
+- Scripts de banco:
+- Atualizações de pacotes/dependências:
+- Alterações em APIs/endpoints:
+- Alterações em eventos, filas ou integrações:
+- Alterações em configurações/variáveis de ambiente:
+- Atualizações de documentação técnica:
+- Outros entregáveis:
+
+#### Definição da solução técnica
+
+Descreva a solução técnica proposta considerando o código existente, padrões do projeto, integrações, dados, riscos técnicos e estratégia de implementação.
 
 ### Subtarefas sugeridas
 

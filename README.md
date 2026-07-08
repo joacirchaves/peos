@@ -16,18 +16,41 @@ O PEOS organiza práticas de:
 - Story Mapping
 - Templates
 - Prompts
+- Agentes especializados
 - Integrações com Jira, Notion e GitHub
 
-## Documentação da Sprint 1
+## Portal PEOS
+
+A documentação está organizada para funcionar em duas camadas:
+
+- **GitHub**: fonte canônica, versionada e rastreável.
+- **Notion**: portal de leitura, navegação e alinhamento executivo.
+
+## Documentação principal
 
 - [Visão Geral](docs/01-visao-geral.md)
 - [Princípios Operacionais](docs/02-principios-operacionais.md)
 - [Fluxo de Refinamento](docs/03-fluxo-de-refinamento.md)
 - [Padrão de Histórias para Jira](docs/04-padrao-historias-jira.md)
 - [Governança da Documentação](docs/05-governanca-documentacao.md)
-- [Prompt-Mestre — Product Architect & Agile Master](prompts/Prompt-Mestre-Product-Architect.md)
+- [Roadmap](docs/06-roadmap.md)
 
-## Estrutura Inicial
+## Templates
+
+- [Entrada de Demanda](templates/template-entrada-demanda.md)
+- [Discovery](templates/template-discovery.md)
+- [História Jira](templates/template-historia-jira.md)
+
+## Prompts e agentes
+
+- [Prompt-Mestre — Product Architect & Agile Master](prompts/Prompt-Mestre-Product-Architect.md)
+- [Catálogo de Agentes](agents/catalogo-agentes.md)
+
+## Histórico
+
+- [Changelog](CHANGELOG.md)
+
+## Estrutura
 
 ```text
 docs/
